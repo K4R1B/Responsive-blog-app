@@ -1,0 +1,1 @@
+this project was done with Html, css and php, latel i will try to host it in azure VM
